@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdap_docs=self.webpackChunkdap_docs||[]).push([[257],{8427:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/z-devops-acceleration-program/blog/tags/facebook","allTagsPath":"/z-devops-acceleration-program/blog/tags","count":1}')}}]);
