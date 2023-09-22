@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdap_docs=self.webpackChunkdap_docs||[]).push([[75],{1711:e=>{e.exports=JSON.parse('{"permalink":"/z-devops-acceleration-program/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
