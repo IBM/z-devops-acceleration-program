@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdap_docs=self.webpackChunkdap_docs||[]).push([[121],{8070:a=>{a.exports=JSON.parse('[{"label":"docusaurus","permalink":"/z-devops-acceleration-program/docs/tags/docusaurus","count":1},{"label":"example","permalink":"/z-devops-acceleration-program/docs/tags/example","count":1}]')}}]);
