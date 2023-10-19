@@ -4,8 +4,8 @@
   <ShortName>IBM Z DevOps Acceleration Program</ShortName>
   <Description>Search IBM Z DevOps Acceleration Program</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/img/bee2.svg</Image>
-  <Url type="text/html" method="get" template="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/opensearch.xml" />
-  <moz:SearchForm>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://ibm.github.io/z-devops-acceleration-program/img/bee2.svg</Image>
+  <Url type="text/html" method="get" template="https://ibm.github.io/z-devops-acceleration-program/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://ibm.github.io/z-devops-acceleration-program/opensearch.xml" />
+  <moz:SearchForm>https://ibm.github.io/z-devops-acceleration-program/</moz:SearchForm>
 </OpenSearchDescription>
