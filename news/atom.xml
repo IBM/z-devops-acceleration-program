@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ibm.github.io/z-devops-acceleration-program/news</id>
+    <title>IBM Z DevOps Acceleration Program Blog</title>
+    <updated>2023-11-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ibm.github.io/z-devops-acceleration-program/news"/>
+    <subtitle>IBM Z DevOps Acceleration Program Blog</subtitle>
+    <icon>https://ibm.github.io/z-devops-acceleration-program/img/bee2.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the IBM Z DevOps Acceleration Program News]]></title>
+        <id>https://ibm.github.io/z-devops-acceleration-program/news/2023-11-28-opening-post</id>
+        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2023-11-28-opening-post"/>
+        <updated>2023-11-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On the IBM Z DevOps Acceleration Program News page, you will find links to relevant news and blogs that showcase and explain the value of our Git workflow-based CI/CD solution.]]></summary>
+        <content type="html"><![CDATA[<p>On the <a href="https://ibm.github.io/z-devops-acceleration-program/news" target="_blank" rel="noopener noreferrer">IBM Z DevOps Acceleration Program News page</a>, you will find links to relevant news and blogs that showcase and explain the value of our Git workflow-based CI/CD solution.</p><p>Bookmark this page as we update it regularly with new content: <a href="https://ibm.github.io/z-devops-acceleration-program/news" target="_blank" rel="noopener noreferrer">https://ibm.github.io/z-devops-acceleration-program/news</a></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A "no-baggage" approach to new Mainframe development practices]]></title>
+        <id>https://ibm.github.io/z-devops-acceleration-program/news/2023-11-22-no-baggage</id>
+        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2023-11-22-no-baggage"/>
+        <updated>2023-11-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Transitioning a whole delivery process for applications to a new set of tools and practices can represent a real challenge if the attempt is to reproduce design from the past and keep things as they were as close as possible. A "no-baggage" strategy means read more...]]></summary>
+        <content type="html"><![CDATA[<p>Transitioning a whole delivery process for applications to a new set of tools and practices can represent a real challenge if the attempt is to reproduce design from the past and keep things as they were as close as possible. A "no-baggage" strategy means <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/mathieu-dalbin/2023/11/22/a-no-baggage-approach-to-new-mainframe-development" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content>
+        <author>
+            <name>Mathieu Dalbin</name>
+        </author>
+        <category label="transformation" term="transformation"/>
+        <category label="adoption" term="adoption"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformation of library manager SysProgs into DevOps Engineers]]></title>
+        <id>https://ibm.github.io/z-devops-acceleration-program/news/2023-06-09-sysprog-to-devops-eng</id>
+        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2023-06-09-sysprog-to-devops-eng"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Delivering software and services at the speed that the market demands, requires IT teams to work together, and iterate rapidly. To be responsive to business demands, enterprise development teams need to read more...]]></summary>
+        <content type="html"><![CDATA[<p>Delivering software and services at the speed that the market demands, requires IT teams to work together, and iterate rapidly. To be responsive to business demands, enterprise development teams need to <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/senthil-nathan/2023/07/06/library-manager-sysprogs-into-devops-engs" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content>
+        <author>
+            <name>Senthil Nathan</name>
+        </author>
+        <category label="migration specialist" term="migration specialist"/>
+        <category label="build specialist" term="build specialist"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Git and why ONLY Git?]]></title>
+        <id>https://ibm.github.io/z-devops-acceleration-program/news/2023-02-22-why-git</id>
+        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2023-02-22-why-git"/>
+        <updated>2023-02-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git has been accepted as the primary Source Control Management (SCM) in the enterprise, open-source & startup world. It is a typical “winner takes all” scenario, where very little is left to debate read more...]]></summary>
+        <content type="html"><![CDATA[<p>Git has been accepted as the primary Source Control Management (SCM) in the enterprise, open-source &amp; startup world. It is a typical “winner takes all” scenario, where very little is left to debate <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/senthil-nathan/2023/02/21/why-only-git" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content>
+        <author>
+            <name>Senthil Nathan</name>
+        </author>
+        <category label="Git" term="Git"/>
+    </entry>
+</feed>
