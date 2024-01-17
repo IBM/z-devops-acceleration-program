@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ibm.github.io/z-devops-acceleration-program/news</id>
     <title>IBM Z DevOps Acceleration Program Blog</title>
-    <updated>2023-11-28T00:00:00.000Z</updated>
+    <updated>2023-12-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ibm.github.io/z-devops-acceleration-program/news"/>
     <subtitle>IBM Z DevOps Acceleration Program Blog</subtitle>
     <icon>https://ibm.github.io/z-devops-acceleration-program/img/bee2.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[A standardized DevOps pipeline at RBC improves the developer experience and drives global business value]]></title>
+        <id>https://ibm.github.io/z-devops-acceleration-program/news/2023-12-27-transform-rbc</id>
+        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2023-12-27-transform-rbc"/>
+        <updated>2023-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In 2019, Royal Bank of Canada (RBC) began a project to automate a standardized DevOps pipeline that had been manual and leveraged an older library management system]]></summary>
+        <content type="html"><![CDATA[<p>In 2019, Royal Bank of Canada (RBC) began a project to automate a standardized DevOps pipeline that had been manual and leveraged an older library management system
+for source code management. Then, as happened to all, the pandemic came along and while it extended the project, it also gave RBC time to
+develop and implement a homegrown application on-boarding tool they named Helios to interact with and drive standardization
+with GitHub <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/sherri-hanna1/2023/12/27/rbc-standard-devops-pipeline?CommunityKey=f36c1ced-7e79-43cd-897c-e798acfef4a4" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content>
+        <author>
+            <name>Sherri Hanna</name>
+        </author>
+        <category label="transformation" term="transformation"/>
+        <category label="adoption" term="adoption"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to the IBM Z DevOps Acceleration Program News]]></title>
         <id>https://ibm.github.io/z-devops-acceleration-program/news/2023-11-28-opening-post</id>
