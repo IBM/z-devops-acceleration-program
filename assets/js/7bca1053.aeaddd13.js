@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdap_docs=self.webpackChunkdap_docs||[]).push([[1880],{6584:a=>{a.exports=JSON.parse('{"label":"migration specialist","permalink":"/z-devops-acceleration-program/news/tags/migration-specialist","allTagsPath":"/z-devops-acceleration-program/news/tags","count":1,"unlisted":false}')}}]);
