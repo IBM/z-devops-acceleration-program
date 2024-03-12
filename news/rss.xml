@@ -4,10 +4,23 @@
         <title>IBM Z DevOps Acceleration Program Blog</title>
         <link>https://ibm.github.io/z-devops-acceleration-program/news</link>
         <description>IBM Z DevOps Acceleration Program Blog</description>
-        <lastBuildDate>Wed, 27 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Worried about cloning your large Z code Git repo?]]></title>
+            <link>https://ibm.github.io/z-devops-acceleration-program/news/2024-03-08-cloning-large-z-repos</link>
+            <guid>https://ibm.github.io/z-devops-acceleration-program/news/2024-03-08-cloning-large-z-repos</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[TL;DR Don't worry about the size of your repos, they will be fine.]]></description>
+            <content:encoded><![CDATA[<p><strong>TL;DR</strong> Don't worry about the size of your repos, they will be fine.</p>
+<hr>
+<p>I've seen and heard a few mainframe development teams new to Git be fairly shocked
+when they realise what the word 'distributed' means when we say it is
+a 'distributed version control system'. <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/ian-mitchell1/2024/03/06/worried-about-cloning-your-large-z-code-repo?CommunityKey=f461c55d-159c-4a94-b708-9f7fe11d972b" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content:encoded>
+            <category>Git</category>
+        </item>
         <item>
             <title><![CDATA[A standardized DevOps pipeline at RBC improves the developer experience and drives global business value]]></title>
             <link>https://ibm.github.io/z-devops-acceleration-program/news/2023-12-27-transform-rbc</link>
