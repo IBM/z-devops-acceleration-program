@@ -4,10 +4,33 @@
         <title>IBM Z DevOps Acceleration Program Blog</title>
         <link>https://ibm.github.io/z-devops-acceleration-program/news</link>
         <description>IBM Z DevOps Acceleration Program Blog</description>
-        <lastBuildDate>Fri, 08 Mar 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Still on DBB 1.1.x? This is your sign to upgrade.]]></title>
+            <link>https://ibm.github.io/z-devops-acceleration-program/news/2024/03/21/dbb-1x-eos</link>
+            <guid>https://ibm.github.io/z-devops-acceleration-program/news/2024/03/21/dbb-1x-eos</guid>
+            <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[As announced last year, DBB version 1.1.x will be going out of support on April 30, 2024 (see product lifecycle details here). To help customers understand the migration process from DBB 1.1.x to DBB 2.0, the IBM DevOps Acceleration Team (DAT) blogged about how they uplifted their own demonstration environment (GitLab with an originally Derby-based DBB metadata store) in a non-disruptive way:]]></description>
+            <content:encoded><![CDATA[<p>As announced <a href="https://www.ibm.com/docs/en/announcements/software-withdrawal-andor-support-discontinuance-select-software-from-following-divisions-chief-operating-officer-data-ai-automation-sustainability-software-security-watson-advertising-weather-z-linuxone-products-part-numbers-vrm-some-replacements-available?region=US#d6e185__d6e1926" target="_blank" rel="noopener noreferrer">last year</a>, DBB version 1.1.x will be going out of support on April 30, 2024 (see product lifecycle details <a href="https://www.ibm.com/support/pages/ibm-dependency-based-build11x" target="_blank" rel="noopener noreferrer">here</a>). To help customers understand the migration process from DBB 1.1.x to DBB 2.0, the IBM DevOps Acceleration Team (DAT) blogged about how they uplifted their own demonstration environment (GitLab with an originally Derby-based DBB metadata store) in a non-disruptive way:</p>
+<ul>
+<li>
+<p><a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/dennis-behm/2023/03/02/migrating-to-ibm-dependency-based-build-20" target="_blank" rel="noopener noreferrer">Part 1: Migrate existing datastore managed in Derby to Db2z</a> documents the database migration from the Derby to Db2 for z/OS (Db2z), which was a technical debt in DAT's environment that had to be addressed before being able to move to DBB 2.0. Moreover, DBB 2.0 doesn't support Derby as a database provider, making this migration step mandatory for the DAT team.</p>
+</li>
+<li>
+<p><a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/lauren-li/2023/03/15/prepare-cicd-pipelines-for-dbb-20" target="_blank" rel="noopener noreferrer">Part 2: Preparing the customized build framework implementation and GitLab pipelines for DBB 2.0</a> explains the necessary changes to the existing environment and GitLab pipelines to prepare the migration of an application with minimal impact and no disruption. The preparation of the GitLab environment is used as a sample to describe the necessary tasks. The outlined recipes can be applied for other continuous integration (CI) pipeline orchestrators.</p>
+</li>
+<li>
+<p><a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/mathieu-dalbin/2023/03/30/migrate-zos-applications-to-adopt-dbb-20" target="_blank" rel="noopener noreferrer">Part 3: Migration activities for our applications</a> describes the actual migration activities for one of DAT's sample applications.</p>
+</li>
+</ul>
+<p><strong>Note:</strong> This blog series was originally published in early 2023, and only applies to migrations from DBB 1.1.x to DBB 2.0, and not migrations from DBB 1.1.x directly to DBB 2.0.1 or above. In June 2023, DBB 2.0.1 was released and introduced database schema changes that do not allow a DBB 1.1.x and DBB 2.0.1 toolkit to access the same database instance. If you need additional advice on migrating from DBB 1.1.x, please open a support ticket with IBM Support.</p>]]></content:encoded>
+            <category>build specialist</category>
+            <category>pipeline specialist</category>
+            <category>middleware specialist</category>
+        </item>
         <item>
             <title><![CDATA[Worried about cloning your large Z code Git repo?]]></title>
             <link>https://ibm.github.io/z-devops-acceleration-program/news/2024-03-08-cloning-large-z-repos</link>

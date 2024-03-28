@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdap_docs=self.webpackChunkdap_docs||[]).push([[816],{9148:e=>{e.exports=JSON.parse('{"label":"middleware specialist","permalink":"/z-devops-acceleration-program/news/tags/middleware-specialist","allTagsPath":"/z-devops-acceleration-program/news/tags","count":1,"unlisted":false}')}}]);
