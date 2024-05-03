@@ -4,10 +4,36 @@
         <title>IBM Z DevOps Acceleration Program Blog</title>
         <link>https://ibm.github.io/z-devops-acceleration-program/news</link>
         <description>IBM Z DevOps Acceleration Program Blog</description>
-        <lastBuildDate>Thu, 21 Mar 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[DBB Git Migration-Modeler now generally available!]]></title>
+            <link>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-26-dbb-migration-modeler</link>
+            <guid>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-26-dbb-migration-modeler</guid>
+            <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[The DBB Git Migration-Modeler provides a guided approach to plan and migrate a source codebase from MVS datasets to z/OS UNIX System Services folders, and helps to identify and document the boundaries of mainframe applications. This utility can facilitate your z/OS application migration by:]]></description>
+            <content:encoded><![CDATA[<p>The DBB Git Migration-Modeler provides a guided approach to plan and migrate a source codebase from MVS datasets to z/OS UNIX System Services folders, and helps to identify and document the boundaries of mainframe applications. This utility can facilitate your z/OS application migration by:</p>
+<ul>
+<li>performing an assessment to understand the usage and dependencies on include files and programs across applications.</li>
+<li>suggesting the appropriate owning application, and documenting the source-level and object-level dependencies between applications.</li>
+<li>automatically creating part of the configuration for the dbb-zAppBuild build framework by generating property files for the application's artifacts based on provided configuration mappings.</li>
+</ul>
+<p>Visit the <a href="https://github.com/IBM/dbb-git-migration-modeler/tree/0.8.1" target="_blank" rel="noopener noreferrer">DBB Git Migration-Modeler repository</a> to learn more and try it out!</p>]]></content:encoded>
+            <category>build specialist</category>
+            <category>migration specialist</category>
+        </item>
+        <item>
+            <title><![CDATA[Enterprise DevOps pipelines with the z/OS-native GitLab Runner]]></title>
+            <link>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-25-gitlab-zos-native</link>
+            <guid>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-25-gitlab-zos-native</guid>
+            <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[You've been waiting for a long time, and now it's here!]]></description>
+            <content:encoded><![CDATA[<p>You've been waiting for a long time, and now it's here!
+Thanks to the z/OS Open Tools project, which is specialized in porting Open Source tools to the z/OS platform, the z/OS-native GitLab Runner is now available to the community, allowing a seamless integration of the z/OS environment into enterprise CI/CD pipelines. <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/mathieu-dalbin/2024/04/25/enterprise-devops-pipelines-with-the-zos-native-gi" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content:encoded>
+            <category>GitLab</category>
+        </item>
         <item>
             <title><![CDATA[Still on DBB 1.1.x? This is your sign to upgrade.]]></title>
             <link>https://ibm.github.io/z-devops-acceleration-program/news/2024/03/21/dbb-1x-eos</link>
