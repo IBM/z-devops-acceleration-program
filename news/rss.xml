@@ -4,10 +4,35 @@
         <title>IBM Z DevOps Acceleration Program Blog</title>
         <link>https://ibm.github.io/z-devops-acceleration-program/news</link>
         <description>IBM Z DevOps Acceleration Program Blog</description>
-        <lastBuildDate>Fri, 26 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[New focus on working practices]]></title>
+            <link>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices</link>
+            <guid>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices</guid>
+            <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Successful adoption of DevOps with IBM Z needs early appreciation of how your working practices should modernize and]]></description>
+            <content:encoded><![CDATA[<p>Successful adoption of DevOps with IBM Z needs early appreciation of how your working practices should modernize and
+improve - to recognize this, we restructured the top level navigation.</p>
+<p>We now lead a new "Working Practices" section by introducing the branching model as that is the most
+significant factor in how the roles in your team will adapt their ways of working.</p>
+<p>Our "Implementing CI/CD" section now concentrates on the technical guidance to match the practices.</p>
+<p>Check out our Git branching documentation in their new locations:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="working-practices">Working practices<a href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#working-practices" class="hash-link" aria-label="Direct link to Working practices" title="Direct link to Working practices">​</a></h2>
+<ul>
+<li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/working-practices-intro">Introduction to working practices for teams using Git</a> (formerly "Introduction to branching models")</li>
+<li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/git-branching-model-for-mainframe-dev">Git branching model for mainframe development</a></li>
+<li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/branching-appendix">Working practice variations</a> (formerly "Appendix")</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementing-cicd">Implementing CI/CD<a href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#implementing-cicd" class="hash-link" aria-label="Direct link to Implementing CI/CD" title="Direct link to Implementing CI/CD">​</a></h2>
+<ul>
+<li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/branching-model-supporting-pipeline">Implementing a pipeline for the branching model</a> (formerly "Pipeline design and implementation supporting the branching model")</li>
+</ul>]]></content:encoded>
+            <category>transformation</category>
+            <category>adoption</category>
+        </item>
         <item>
             <title><![CDATA[DBB Git Migration-Modeler now generally available!]]></title>
             <link>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-26-dbb-migration-modeler</link>
