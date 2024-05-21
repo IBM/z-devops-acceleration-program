@@ -4,10 +4,19 @@
         <title>IBM Z DevOps Acceleration Program Blog</title>
         <link>https://ibm.github.io/z-devops-acceleration-program/news</link>
         <description>IBM Z DevOps Acceleration Program Blog</description>
-        <lastBuildDate>Mon, 29 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Generating Software Bill-Of-Material for z/OS applications with IBM Dependency-Based Build]]></title>
+            <link>https://ibm.github.io/z-devops-acceleration-program/news/2024-05-06-SBOM</link>
+            <guid>https://ibm.github.io/z-devops-acceleration-program/news/2024-05-06-SBOM</guid>
+            <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Software Bill-Of-Material (SBOM) is becoming a prominent concept in the DevSecOps space, to ensure proper management of the components that make an application. The purpose of the SBOM is to comprehensively document all the components involved in the creation of a given application. To support the creation of SBOM files, the PackageBuildOutputs.groovy script, available in the DBB GitHub repository, has been enhanced to read more...]]></description>
+            <content:encoded><![CDATA[<p>Software Bill-Of-Material (SBOM) is becoming a prominent concept in the DevSecOps space, to ensure proper management of the components that make an application. The purpose of the SBOM is to comprehensively document all the components involved in the creation of a given application. To support the creation of SBOM files, the <a href="https://github.com/IBM/dbb/tree/main/Pipeline/PackageBuildOutputs" target="_blank" rel="noopener noreferrer">PackageBuildOutputs.groovy</a> script, available in the <a href="https://github.com/IBM/dbb" target="_blank" rel="noopener noreferrer">DBB</a> GitHub repository, has been enhanced to <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/mathieu-dalbin/2024/05/06/generating-software-bill-of-material-for-zos-apps?CommunityKey=f461c55d-159c-4a94-b708-9f7fe11d972b" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content:encoded>
+            <category>DevSecOps</category>
+        </item>
         <item>
             <title><![CDATA[New focus on working practices]]></title>
             <link>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices</link>
