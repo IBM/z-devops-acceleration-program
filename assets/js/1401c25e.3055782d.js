@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdap_docs=self.webpackChunkdap_docs||[]).push([[990],{3208:a=>{a.exports=JSON.parse('{"label":"GitLab","permalink":"/z-devops-acceleration-program/news/tags/git-lab","allTagsPath":"/z-devops-acceleration-program/news/tags","count":1,"unlisted":false}')}}]);

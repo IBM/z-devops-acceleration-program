@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ibm.github.io/z-devops-acceleration-program/news</id>
-    <title>IBM Z DevOps Acceleration Program Blog</title>
-    <updated>2024-05-06T00:00:00.000Z</updated>
+    <title>IBM Z DevOps Guide Blog</title>
+    <updated>2024-06-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ibm.github.io/z-devops-acceleration-program/news"/>
-    <subtitle>IBM Z DevOps Acceleration Program Blog</subtitle>
+    <subtitle>IBM Z DevOps Guide Blog</subtitle>
     <icon>https://ibm.github.io/z-devops-acceleration-program/img/bee2.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Focusing on guidance]]></title>
+        <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-06-28-the-guide</id>
+        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024-06-28-the-guide"/>
+        <updated>2024-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the IBM Z® DevOps Acceleration Program, our aim has consistently been to provide the very best guidance for adoption of modern DevOps practices]]></summary>
+        <content type="html"><![CDATA[<p>In the IBM Z® DevOps Acceleration Program, our aim has consistently been to provide the very best guidance for adoption of modern DevOps practices
+for your z/OS® applications, systems, and teams. Now, we have re-titled our homepage to more clearly reflect that, switching from our program name to "IBM Z DevOps Guide".</p>
+<p>The IBM Z DevOps Guide will continue to focus on supporting the entire lifecycle for your adoption, from
+turning motivation and ambition into a plan, to learning the fundamentals, executing the transformation,
+and maximizing the benefits of using the most current industry-standard working practices and tools.</p>]]></content>
+        <author>
+            <name>Ian J Mitchell</name>
+        </author>
+        <category label="transformation" term="transformation"/>
+        <category label="adoption" term="adoption"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generating Software Bill-Of-Material for z/OS applications with IBM Dependency-Based Build]]></title>
         <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-05-06-SBOM</id>
@@ -24,20 +41,20 @@
         <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices</id>
         <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices"/>
         <updated>2024-04-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Successful adoption of DevOps with IBM Z needs early appreciation of how your working practices should modernize and]]></summary>
-        <content type="html"><![CDATA[<p>Successful adoption of DevOps with IBM Z needs early appreciation of how your working practices should modernize and
+        <summary type="html"><![CDATA[Successful adoption of DevOps with IBM Z® needs early appreciation of how your working practices should modernize and]]></summary>
+        <content type="html"><![CDATA[<p>Successful adoption of DevOps with IBM Z® needs early appreciation of how your working practices should modernize and
 improve - to recognize this, we restructured the top level navigation.</p>
 <p>We now lead a new "Working Practices" section by introducing the branching model as that is the most
 significant factor in how the roles in your team will adapt their ways of working.</p>
 <p>Our "Implementing CI/CD" section now concentrates on the technical guidance to match the practices.</p>
 <p>Check out our Git branching documentation in their new locations:</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="working-practices">Working practices<a href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#working-practices" class="hash-link" aria-label="Direct link to Working practices" title="Direct link to Working practices">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="working-practices">Working practices<a class="hash-link" aria-label="Direct link to Working practices" title="Direct link to Working practices" href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#working-practices">​</a></h2>
 <ul>
 <li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/working-practices-intro">Introduction to working practices for teams using Git</a> (formerly "Introduction to branching models")</li>
 <li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/git-branching-model-for-mainframe-dev">Git branching model for mainframe development</a></li>
 <li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/branching-appendix">Working practice variations</a> (formerly "Appendix")</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementing-cicd">Implementing CI/CD<a href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#implementing-cicd" class="hash-link" aria-label="Direct link to Implementing CI/CD" title="Direct link to Implementing CI/CD">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementing-cicd">Implementing CI/CD<a class="hash-link" aria-label="Direct link to Implementing CI/CD" title="Direct link to Implementing CI/CD" href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#implementing-cicd">​</a></h2>
 <ul>
 <li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/branching-model-supporting-pipeline">Implementing a pipeline for the branching model</a> (formerly "Pipeline design and implementation supporting the branching model")</li>
 </ul>]]></content>
@@ -52,8 +69,8 @@ significant factor in how the roles in your team will adapt their ways of workin
         <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-26-dbb-migration-modeler</id>
         <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-26-dbb-migration-modeler"/>
         <updated>2024-04-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The DBB Git Migration-Modeler provides a guided approach to plan and migrate a source codebase from MVS datasets to z/OS UNIX System Services folders, and helps to identify and document the boundaries of mainframe applications. This utility can facilitate your z/OS application migration by:]]></summary>
-        <content type="html"><![CDATA[<p>The DBB Git Migration-Modeler provides a guided approach to plan and migrate a source codebase from MVS datasets to z/OS UNIX System Services folders, and helps to identify and document the boundaries of mainframe applications. This utility can facilitate your z/OS application migration by:</p>
+        <summary type="html"><![CDATA[The DBB Git Migration-Modeler provides a guided approach to plan and migrate a source codebase from MVS™ datasets to z/OS® UNIX System Services folders, and helps to identify and document the boundaries of mainframe applications. This utility can facilitate your z/OS application migration by:]]></summary>
+        <content type="html"><![CDATA[<p>The DBB Git Migration-Modeler provides a guided approach to plan and migrate a source codebase from MVS™ datasets to z/OS® UNIX System Services folders, and helps to identify and document the boundaries of mainframe applications. This utility can facilitate your z/OS application migration by:</p>
 <ul>
 <li>performing an assessment to understand the usage and dependencies on include files and programs across applications.</li>
 <li>suggesting the appropriate owning application, and documenting the source-level and object-level dependencies between applications.</li>
@@ -70,7 +87,7 @@ significant factor in how the roles in your team will adapt their ways of workin
         <updated>2024-04-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[You've been waiting for a long time, and now it's here!]]></summary>
         <content type="html"><![CDATA[<p>You've been waiting for a long time, and now it's here!
-Thanks to the z/OS Open Tools project, which is specialized in porting Open Source tools to the z/OS platform, the z/OS-native GitLab Runner is now available to the community, allowing a seamless integration of the z/OS environment into enterprise CI/CD pipelines. <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/mathieu-dalbin/2024/04/25/enterprise-devops-pipelines-with-the-zos-native-gi" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content>
+Thanks to the z/OS Open Tools project, which is specialized in porting Open Source tools to the z/OS® platform, the z/OS-native GitLab Runner is now available to the community, allowing a seamless integration of the z/OS environment into enterprise CI/CD pipelines. <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/mathieu-dalbin/2024/04/25/enterprise-devops-pipelines-with-the-zos-native-gi" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content>
         <author>
             <name>Mathieu Dalbin</name>
         </author>
@@ -81,11 +98,11 @@ Thanks to the z/OS Open Tools project, which is specialized in porting Open Sour
         <id>https://ibm.github.io/z-devops-acceleration-program/news/2024/03/21/dbb-1x-eos</id>
         <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024/03/21/dbb-1x-eos"/>
         <updated>2024-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As announced last year, DBB version 1.1.x will be going out of support on April 30, 2024 (see product lifecycle details here). To help customers understand the migration process from DBB 1.1.x to DBB 2.0, the IBM DevOps Acceleration Team (DAT) blogged about how they uplifted their own demonstration environment (GitLab with an originally Derby-based DBB metadata store) in a non-disruptive way:]]></summary>
-        <content type="html"><![CDATA[<p>As announced <a href="https://www.ibm.com/docs/en/announcements/software-withdrawal-andor-support-discontinuance-select-software-from-following-divisions-chief-operating-officer-data-ai-automation-sustainability-software-security-watson-advertising-weather-z-linuxone-products-part-numbers-vrm-some-replacements-available?region=US#d6e185__d6e1926" target="_blank" rel="noopener noreferrer">last year</a>, DBB version 1.1.x will be going out of support on April 30, 2024 (see product lifecycle details <a href="https://www.ibm.com/support/pages/ibm-dependency-based-build11x" target="_blank" rel="noopener noreferrer">here</a>). To help customers understand the migration process from DBB 1.1.x to DBB 2.0, the IBM DevOps Acceleration Team (DAT) blogged about how they uplifted their own demonstration environment (GitLab with an originally Derby-based DBB metadata store) in a non-disruptive way:</p>
+        <summary type="html"><![CDATA[As announced last year, DBB version 1.1.x will be going out of support on April 30, 2024 (see product lifecycle details here). To help customers understand the migration process from DBB 1.1.x to DBB 2.0, the IBM® DevOps Acceleration Team (DAT) blogged about how they uplifted their own demonstration environment (GitLab with an originally Derby-based DBB metadata store) in a non-disruptive way:]]></summary>
+        <content type="html"><![CDATA[<p>As announced <a href="https://www.ibm.com/docs/en/announcements/software-withdrawal-andor-support-discontinuance-select-software-from-following-divisions-chief-operating-officer-data-ai-automation-sustainability-software-security-watson-advertising-weather-z-linuxone-products-part-numbers-vrm-some-replacements-available?region=US#d6e185__d6e1926" target="_blank" rel="noopener noreferrer">last year</a>, DBB version 1.1.x will be going out of support on April 30, 2024 (see product lifecycle details <a href="https://www.ibm.com/support/pages/ibm-dependency-based-build11x" target="_blank" rel="noopener noreferrer">here</a>). To help customers understand the migration process from DBB 1.1.x to DBB 2.0, the IBM® DevOps Acceleration Team (DAT) blogged about how they uplifted their own demonstration environment (GitLab with an originally Derby-based DBB metadata store) in a non-disruptive way:</p>
 <ul>
 <li>
-<p><a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/dennis-behm/2023/03/02/migrating-to-ibm-dependency-based-build-20" target="_blank" rel="noopener noreferrer">Part 1: Migrate existing datastore managed in Derby to Db2z</a> documents the database migration from the Derby to Db2 for z/OS (Db2z), which was a technical debt in DAT's environment that had to be addressed before being able to move to DBB 2.0. Moreover, DBB 2.0 doesn't support Derby as a database provider, making this migration step mandatory for the DAT team.</p>
+<p><a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/dennis-behm/2023/03/02/migrating-to-ibm-dependency-based-build-20" target="_blank" rel="noopener noreferrer">Part 1: Migrate existing datastore managed in Derby to Db2z</a> documents the database migration from the Derby to Db2® for z/OS® (Db2z), which was a technical debt in DAT's environment that had to be addressed before being able to move to DBB 2.0. Moreover, DBB 2.0 doesn't support Derby as a database provider, making this migration step mandatory for the DAT team.</p>
 </li>
 <li>
 <p><a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/lauren-li/2023/03/15/prepare-cicd-pipelines-for-dbb-20" target="_blank" rel="noopener noreferrer">Part 2: Preparing the customized build framework implementation and GitLab pipelines for DBB 2.0</a> explains the necessary changes to the existing environment and GitLab pipelines to prepare the migration of an application with minimal impact and no disruption. The preparation of the GitLab environment is used as a sample to describe the necessary tasks. The outlined recipes can be applied for other continuous integration (CI) pipeline orchestrators.</p>
@@ -136,8 +153,8 @@ with GitHub <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/
         <id>https://ibm.github.io/z-devops-acceleration-program/news/2023-11-28-opening-post</id>
         <link href="https://ibm.github.io/z-devops-acceleration-program/news/2023-11-28-opening-post"/>
         <updated>2023-11-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On the IBM Z DevOps Acceleration Program News page, you will find links to relevant news and blogs that showcase and explain the value of our Git workflow-based CI/CD solution.]]></summary>
-        <content type="html"><![CDATA[<p>On the <a href="https://ibm.github.io/z-devops-acceleration-program/news" target="_blank" rel="noopener noreferrer">IBM Z DevOps Acceleration Program News page</a>, you will find links to relevant news and blogs that showcase and explain the value of our Git workflow-based CI/CD solution.</p>
+        <summary type="html"><![CDATA[On the IBM Z® DevOps Acceleration Program News page, you will find links to relevant news and blogs that showcase and explain the value of our Git workflow-based CI/CD solution.]]></summary>
+        <content type="html"><![CDATA[<p>On the <a href="https://ibm.github.io/z-devops-acceleration-program/news" target="_blank" rel="noopener noreferrer">IBM Z® DevOps Acceleration Program News page</a>, you will find links to relevant news and blogs that showcase and explain the value of our Git workflow-based CI/CD solution.</p>
 <p>Bookmark this page as we update it regularly with new content: <a href="https://ibm.github.io/z-devops-acceleration-program/news" target="_blank" rel="noopener noreferrer">https://ibm.github.io/z-devops-acceleration-program/news</a></p>]]></content>
     </entry>
     <entry>

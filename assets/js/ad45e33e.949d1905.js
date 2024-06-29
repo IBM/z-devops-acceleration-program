@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdap_docs=self.webpackChunkdap_docs||[]).push([[244],{976:e=>{e.exports=JSON.parse('{"label":"pipeline specialist","permalink":"/z-devops-acceleration-program/news/tags/pipeline-specialist","allTagsPath":"/z-devops-acceleration-program/news/tags","count":1,"unlisted":false}')}}]);

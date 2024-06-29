@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdap_docs=self.webpackChunkdap_docs||[]).push([[1524],{5330:e=>{e.exports=JSON.parse('{"label":"DevSecOps","permalink":"/z-devops-acceleration-program/news/tags/dev-sec-ops","allTagsPath":"/z-devops-acceleration-program/news/tags","count":1,"unlisted":false}')}}]);
