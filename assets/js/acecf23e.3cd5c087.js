@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdap_docs=self.webpackChunkdap_docs||[]).push([[6360],{1112:e=>{e.exports=JSON.parse('{"blogBasePath":"/z-devops-acceleration-program/news","blogTitle":"IBM Z DevOps Acceleration Program News"}')}}]);

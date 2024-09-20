@@ -43,13 +43,13 @@ improve - to recognize this, we restructured the top level navigation.</p>
 significant factor in how the roles in your team will adapt their ways of working.</p>
 <p>Our "Implementing CI/CD" section now concentrates on the technical guidance to match the practices.</p>
 <p>Check out our Git branching documentation in their new locations:</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="working-practices">Working practices<a class="hash-link" aria-label="Direct link to Working practices" title="Direct link to Working practices" href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#working-practices">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="working-practices">Working practices<a href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#working-practices" class="hash-link" aria-label="Direct link to Working practices" title="Direct link to Working practices">​</a></h2>
 <ul>
 <li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/working-practices-intro">Introduction to working practices for teams using Git</a> (formerly "Introduction to branching models")</li>
 <li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/git-branching-model-for-mainframe-dev">Git branching model for mainframe development</a></li>
 <li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/branching-appendix">Working practice variations</a> (formerly "Appendix")</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementing-cicd">Implementing CI/CD<a class="hash-link" aria-label="Direct link to Implementing CI/CD" title="Direct link to Implementing CI/CD" href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#implementing-cicd">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementing-cicd">Implementing CI/CD<a href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#implementing-cicd" class="hash-link" aria-label="Direct link to Implementing CI/CD" title="Direct link to Implementing CI/CD">​</a></h2>
 <ul>
 <li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/branching-model-supporting-pipeline">Implementing a pipeline for the branching model</a> (formerly "Pipeline design and implementation supporting the branching model")</li>
 </ul>]]></content:encoded>
