@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ibm.github.io/z-devops-acceleration-program/news</id>
     <title>IBM Z DevOps Guide Blog</title>
-    <updated>2024-06-28T00:00:00.000Z</updated>
+    <updated>2024-10-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ibm.github.io/z-devops-acceleration-program/news"/>
     <subtitle>IBM Z DevOps Guide Blog</subtitle>
     <icon>https://ibm.github.io/z-devops-acceleration-program/img/bee2.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[IBM Dependency Based Build (DBB) v3.0.0 has arrived!]]></title>
+        <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-10-10-dbb-v300</id>
+        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024-10-10-dbb-v300"/>
+        <updated>2024-10-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have landed on this page, you most certainly know what DBB is, but just in case, let me (re)introduce it.]]></summary>
+        <content type="html"><![CDATA[<p>If you have landed on this page, you most certainly know what DBB is, but just in case, let me (re)introduce it.</p>
+<p>IBM Dependency Based Build (DBB for short) is an intelligent build product for traditional z/OS applications written in languages such as COBOL and PL/I that allows the analysis of build dependencies between objects. <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/shabbir-moledina1/2024/10/10/ibm-dependency-based-build-dbb-v300-has-arrived?communityKey=f461c55d-159c-4a94-b708-9f7fe11d972b" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content>
+        <author>
+            <name>Shabbir Moledina</name>
+        </author>
+        <category label="build specialist" term="build specialist"/>
+        <category label="pipeline specialist" term="pipeline specialist"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Focusing on guidance]]></title>
         <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-06-28-the-guide</id>
@@ -51,8 +65,8 @@ significant factor in how the roles in your team will adapt their ways of workin
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="working-practices">Working practices<a href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#working-practices" class="hash-link" aria-label="Direct link to Working practices" title="Direct link to Working practices">​</a></h2>
 <ul>
 <li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/working-practices-intro">Introduction to working practices for teams using Git</a> (formerly "Introduction to branching models")</li>
-<li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/git-branching-model-for-mainframe-dev">Git branching model for mainframe development</a></li>
-<li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/branching-appendix">Working practice variations</a> (formerly "Appendix")</li>
+<li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/branching/git-branching-model-for-mainframe-dev">Git branching model for mainframe development</a></li>
+<li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/branching/branching-appendix">Working practice variations</a> (formerly "Appendix")</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementing-cicd">Implementing CI/CD<a href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#implementing-cicd" class="hash-link" aria-label="Direct link to Implementing CI/CD" title="Direct link to Implementing CI/CD">​</a></h2>
 <ul>
