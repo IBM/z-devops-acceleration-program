@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ibm.github.io/z-devops-acceleration-program/news</id>
+    <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news</id>
     <title>IBM Z DevOps Guide Blog</title>
     <updated>2024-10-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ibm.github.io/z-devops-acceleration-program/news"/>
+    <link rel="alternate" href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news"/>
     <subtitle>IBM Z DevOps Guide Blog</subtitle>
-    <icon>https://ibm.github.io/z-devops-acceleration-program/img/bee2.svg</icon>
+    <icon>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/img/bee2.svg</icon>
     <entry>
         <title type="html"><![CDATA[IBM Dependency Based Build (DBB) v3.0.0 has arrived!]]></title>
-        <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-10-10-dbb-v300</id>
-        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024-10-10-dbb-v300"/>
+        <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-10-10-dbb-v300</id>
+        <link href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-10-10-dbb-v300"/>
         <updated>2024-10-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[If you have landed on this page, you most certainly know what DBB is, but just in case, let me (re)introduce it.]]></summary>
         <content type="html"><![CDATA[<p>If you have landed on this page, you most certainly know what DBB is, but just in case, let me (re)introduce it.</p>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Focusing on guidance]]></title>
-        <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-06-28-the-guide</id>
-        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024-06-28-the-guide"/>
+        <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-06-28-the-guide</id>
+        <link href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-06-28-the-guide"/>
         <updated>2024-06-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[In the IBM Z® DevOps Acceleration Program, our aim has consistently been to provide the very best guidance for adoption of modern DevOps practices]]></summary>
         <content type="html"><![CDATA[<p>In the IBM Z® DevOps Acceleration Program, our aim has consistently been to provide the very best guidance for adoption of modern DevOps practices
@@ -40,8 +40,8 @@ and maximizing the benefits of using the most current industry-standard working 
     </entry>
     <entry>
         <title type="html"><![CDATA[Generating Software Bill-Of-Material for z/OS applications with IBM Dependency-Based Build]]></title>
-        <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-05-06-SBOM</id>
-        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024-05-06-SBOM"/>
+        <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-05-06-SBOM</id>
+        <link href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-05-06-SBOM"/>
         <updated>2024-05-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Software Bill-Of-Material (SBOM) is becoming a prominent concept in the DevSecOps space, to ensure proper management of the components that make an application. The purpose of the SBOM is to comprehensively document all the components involved in the creation of a given application. To support the creation of SBOM files, the PackageBuildOutputs.groovy script, available in the DBB GitHub repository, has been enhanced to read more...]]></summary>
         <content type="html"><![CDATA[<p>Software Bill-Of-Material (SBOM) is becoming a prominent concept in the DevSecOps space, to ensure proper management of the components that make an application. The purpose of the SBOM is to comprehensively document all the components involved in the creation of a given application. To support the creation of SBOM files, the <a href="https://github.com/IBM/dbb/tree/main/Pipeline/PackageBuildOutputs" target="_blank" rel="noopener noreferrer">PackageBuildOutputs.groovy</a> script, available in the <a href="https://github.com/IBM/dbb" target="_blank" rel="noopener noreferrer">DBB</a> GitHub repository, has been enhanced to <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/mathieu-dalbin/2024/05/06/generating-software-bill-of-material-for-zos-apps?CommunityKey=f461c55d-159c-4a94-b708-9f7fe11d972b" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content>
@@ -52,8 +52,8 @@ and maximizing the benefits of using the most current industry-standard working 
     </entry>
     <entry>
         <title type="html"><![CDATA[New focus on working practices]]></title>
-        <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices</id>
-        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices"/>
+        <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-04-29-working-practices</id>
+        <link href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-04-29-working-practices"/>
         <updated>2024-04-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Successful adoption of DevOps with IBM Z® needs early appreciation of how your working practices should modernize and]]></summary>
         <content type="html"><![CDATA[<p>Successful adoption of DevOps with IBM Z® needs early appreciation of how your working practices should modernize and
@@ -62,15 +62,15 @@ improve - to recognize this, we restructured the top level navigation.</p>
 significant factor in how the roles in your team will adapt their ways of working.</p>
 <p>Our "Implementing CI/CD" section now concentrates on the technical guidance to match the practices.</p>
 <p>Check out our Git branching documentation in their new locations:</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="working-practices">Working practices<a href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#working-practices" class="hash-link" aria-label="Direct link to Working practices" title="Direct link to Working practices">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="working-practices">Working practices<a href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-04-29-working-practices#working-practices" class="hash-link" aria-label="Direct link to Working practices" title="Direct link to Working practices">​</a></h2>
 <ul>
-<li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/working-practices-intro">Introduction to working practices for teams using Git</a> (formerly "Introduction to branching models")</li>
-<li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/branching/git-branching-model-for-mainframe-dev">Git branching model for mainframe development</a></li>
-<li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/branching/branching-appendix">Working practice variations</a> (formerly "Appendix")</li>
+<li><a href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/docs/working-practices-intro">Introduction to working practices for teams using Git</a> (formerly "Introduction to branching models")</li>
+<li><a href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/docs/branching/git-branching-model-for-mainframe-dev">Git branching model for mainframe development</a></li>
+<li><a href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/docs/branching/branching-appendix">Working practice variations</a> (formerly "Appendix")</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementing-cicd">Implementing CI/CD<a href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-29-working-practices#implementing-cicd" class="hash-link" aria-label="Direct link to Implementing CI/CD" title="Direct link to Implementing CI/CD">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementing-cicd">Implementing CI/CD<a href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-04-29-working-practices#implementing-cicd" class="hash-link" aria-label="Direct link to Implementing CI/CD" title="Direct link to Implementing CI/CD">​</a></h2>
 <ul>
-<li><a href="https://ibm.github.io/z-devops-acceleration-program/docs/branching-model-supporting-pipeline">Implementing a pipeline for the branching model</a> (formerly "Pipeline design and implementation supporting the branching model")</li>
+<li><a href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/docs/branching-model-supporting-pipeline">Implementing a pipeline for the branching model</a> (formerly "Pipeline design and implementation supporting the branching model")</li>
 </ul>]]></content>
         <author>
             <name>Ian J Mitchell</name>
@@ -80,8 +80,8 @@ significant factor in how the roles in your team will adapt their ways of workin
     </entry>
     <entry>
         <title type="html"><![CDATA[DBB Git Migration-Modeler now generally available!]]></title>
-        <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-26-dbb-migration-modeler</id>
-        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-26-dbb-migration-modeler"/>
+        <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-04-26-dbb-migration-modeler</id>
+        <link href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-04-26-dbb-migration-modeler"/>
         <updated>2024-04-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The DBB Git Migration-Modeler provides a guided approach to plan and migrate a source codebase from MVS™ datasets to z/OS® UNIX System Services folders, and helps to identify and document the boundaries of mainframe applications. This utility can facilitate your z/OS application migration by:]]></summary>
         <content type="html"><![CDATA[<p>The DBB Git Migration-Modeler provides a guided approach to plan and migrate a source codebase from MVS™ datasets to z/OS® UNIX System Services folders, and helps to identify and document the boundaries of mainframe applications. This utility can facilitate your z/OS application migration by:</p>
@@ -96,8 +96,8 @@ significant factor in how the roles in your team will adapt their ways of workin
     </entry>
     <entry>
         <title type="html"><![CDATA[Enterprise DevOps pipelines with the z/OS-native GitLab Runner]]></title>
-        <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-04-25-gitlab-zos-native</id>
-        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024-04-25-gitlab-zos-native"/>
+        <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-04-25-gitlab-zos-native</id>
+        <link href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-04-25-gitlab-zos-native"/>
         <updated>2024-04-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[You've been waiting for a long time, and now it's here!]]></summary>
         <content type="html"><![CDATA[<p>You've been waiting for a long time, and now it's here!
@@ -109,8 +109,8 @@ Thanks to the z/OS Open Tools project, which is specialized in porting Open Sour
     </entry>
     <entry>
         <title type="html"><![CDATA[Still on DBB 1.1.x? This is your sign to upgrade.]]></title>
-        <id>https://ibm.github.io/z-devops-acceleration-program/news/2024/03/21/dbb-1x-eos</id>
-        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024/03/21/dbb-1x-eos"/>
+        <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024/03/21/dbb-1x-eos</id>
+        <link href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024/03/21/dbb-1x-eos"/>
         <updated>2024-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[As announced last year, DBB version 1.1.x will be going out of support on April 30, 2024 (see product lifecycle details here). To help customers understand the migration process from DBB 1.1.x to DBB 2.0, the IBM® DevOps Acceleration Team (DAT) blogged about how they uplifted their own demonstration environment (GitLab with an originally Derby-based DBB metadata store) in a non-disruptive way:]]></summary>
         <content type="html"><![CDATA[<p>As announced <a href="https://www.ibm.com/docs/en/announcements/software-withdrawal-andor-support-discontinuance-select-software-from-following-divisions-chief-operating-officer-data-ai-automation-sustainability-software-security-watson-advertising-weather-z-linuxone-products-part-numbers-vrm-some-replacements-available?region=US#d6e185__d6e1926" target="_blank" rel="noopener noreferrer">last year</a>, DBB version 1.1.x will be going out of support on April 30, 2024 (see product lifecycle details <a href="https://www.ibm.com/support/pages/ibm-dependency-based-build11x" target="_blank" rel="noopener noreferrer">here</a>). To help customers understand the migration process from DBB 1.1.x to DBB 2.0, the IBM® DevOps Acceleration Team (DAT) blogged about how they uplifted their own demonstration environment (GitLab with an originally Derby-based DBB metadata store) in a non-disruptive way:</p>
@@ -132,8 +132,8 @@ Thanks to the z/OS Open Tools project, which is specialized in porting Open Sour
     </entry>
     <entry>
         <title type="html"><![CDATA[Worried about cloning your large Z code Git repo?]]></title>
-        <id>https://ibm.github.io/z-devops-acceleration-program/news/2024-03-08-cloning-large-z-repos</id>
-        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2024-03-08-cloning-large-z-repos"/>
+        <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-03-08-cloning-large-z-repos</id>
+        <link href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2024-03-08-cloning-large-z-repos"/>
         <updated>2024-03-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TL;DR Don't worry about the size of your repos, they will be fine.]]></summary>
         <content type="html"><![CDATA[<p><strong>TL;DR</strong> Don't worry about the size of your repos, they will be fine.</p>
@@ -148,8 +148,8 @@ a 'distributed version control system'. <a href="https://community.ibm.com/commu
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to the IBM Z DevOps Acceleration Program News]]></title>
-        <id>https://ibm.github.io/z-devops-acceleration-program/news/2023-11-28-opening-post</id>
-        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2023-11-28-opening-post"/>
+        <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2023-11-28-opening-post</id>
+        <link href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2023-11-28-opening-post"/>
         <updated>2023-11-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[On the IBM Z® DevOps Acceleration Program News page, you will find links to relevant news and blogs that showcase and explain the value of our Git workflow-based CI/CD solution.]]></summary>
         <content type="html"><![CDATA[<p>On the <a href="https://ibm.github.io/z-devops-acceleration-program/news" target="_blank" rel="noopener noreferrer">IBM Z® DevOps Acceleration Program News page</a>, you will find links to relevant news and blogs that showcase and explain the value of our Git workflow-based CI/CD solution.</p>
@@ -157,8 +157,8 @@ a 'distributed version control system'. <a href="https://community.ibm.com/commu
     </entry>
     <entry>
         <title type="html"><![CDATA[A "no-baggage" approach to new Mainframe development practices]]></title>
-        <id>https://ibm.github.io/z-devops-acceleration-program/news/2023-11-22-no-baggage</id>
-        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2023-11-22-no-baggage"/>
+        <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2023-11-22-no-baggage</id>
+        <link href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2023-11-22-no-baggage"/>
         <updated>2023-11-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Transitioning a whole delivery process for applications to a new set of tools and practices can represent a real challenge if the attempt is to reproduce design from the past and keep things as they were as close as possible. A "no-baggage" strategy means read more...]]></summary>
         <content type="html"><![CDATA[<p>Transitioning a whole delivery process for applications to a new set of tools and practices can represent a real challenge if the attempt is to reproduce design from the past and keep things as they were as close as possible. A "no-baggage" strategy means <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/mathieu-dalbin/2024/02/09/a-no-baggage-approach-to-new-mainframe-development" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content>
@@ -170,8 +170,8 @@ a 'distributed version control system'. <a href="https://community.ibm.com/commu
     </entry>
     <entry>
         <title type="html"><![CDATA[Transformation of library manager SysProgs into DevOps Engineers]]></title>
-        <id>https://ibm.github.io/z-devops-acceleration-program/news/2023-06-09-sysprog-to-devops-eng</id>
-        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2023-06-09-sysprog-to-devops-eng"/>
+        <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2023-06-09-sysprog-to-devops-eng</id>
+        <link href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2023-06-09-sysprog-to-devops-eng"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Delivering software and services at the speed that the market demands, requires IT teams to work together, and iterate rapidly. To be responsive to business demands, enterprise development teams need to read more...]]></summary>
         <content type="html"><![CDATA[<p>Delivering software and services at the speed that the market demands, requires IT teams to work together, and iterate rapidly. To be responsive to business demands, enterprise development teams need to <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/senthil-nathan/2023/07/06/library-manager-sysprogs-into-devops-engs" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content>
@@ -183,8 +183,8 @@ a 'distributed version control system'. <a href="https://community.ibm.com/commu
     </entry>
     <entry>
         <title type="html"><![CDATA[Why Git and why ONLY Git?]]></title>
-        <id>https://ibm.github.io/z-devops-acceleration-program/news/2023-02-22-why-git</id>
-        <link href="https://ibm.github.io/z-devops-acceleration-program/news/2023-02-22-why-git"/>
+        <id>https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2023-02-22-why-git</id>
+        <link href="https://pages.github.ibm.com/zDevOps-Acceleration/z-devops-acceleration-program/news/2023-02-22-why-git"/>
         <updated>2023-02-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Git has been accepted as the primary Source Control Management (SCM) in the enterprise, open-source & startup world. It is a typical “winner takes all” scenario, where very little is left to debate read more...]]></summary>
         <content type="html"><![CDATA[<p>Git has been accepted as the primary Source Control Management (SCM) in the enterprise, open-source &amp; startup world. It is a typical “winner takes all” scenario, where very little is left to debate <a href="https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/senthil-nathan/2023/02/21/why-only-git" target="_blank" rel="noopener noreferrer">read more...</a></p>]]></content>
